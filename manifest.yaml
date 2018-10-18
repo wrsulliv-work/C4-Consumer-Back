@@ -1,0 +1,4 @@
+---
+applications:
+ - name: C4 Consumer Backend
+   memory: 512M
